@@ -1,0 +1,10 @@
+/my-extension
+  /icons
+    icons16.png
+    icons48.png
+    icons128.png
+  background.js
+  content.js
+  popup.html
+  popup.js
+  manifest.json
